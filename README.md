@@ -37,7 +37,7 @@
 
  <hr/>
  
-<h2 align="LEFT">🤖 AI - Bot</h2>
+<h2 align="center">🤖 AI - Bot</h2>
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=aiscript,anaconda&perline=12" />
