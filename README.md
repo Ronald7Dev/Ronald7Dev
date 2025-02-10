@@ -39,7 +39,7 @@
  
 <h2 align="center">🤖 AI - Bot</h2>
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=aiscript,anaconda&perline=12" />
 </div>
 
