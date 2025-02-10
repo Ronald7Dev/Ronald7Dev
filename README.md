@@ -32,7 +32,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode,nodejs,html,css,github,aiscript,notion,anaconda,git,javascript,figma,c,java,mysql,pr,ae,blender,unreal,unity,discord,bots,discordjs,wordpress,linux,lua&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,nodejs,html,css,mysql,git,javascript,figma,lua,c,java,github,pr,ae,blender,unreal,unity,discord,bots,discordjs,wordpress,linux&perline=12" />
+</div>
+
+ <hr/>
+ 
+<h2 align="LEFT">🤖 AI - Bot</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=aiscript,anaconda&perline=12" />
 </div>
 
 <br/>
@@ -51,10 +59,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=414 src="https://streak-stats.demolab.com?user=Ronald7Dev&theme=transparent&short_numbers=true&date_format=j%20M%5B%20Y%5D&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ronald7Dev&count_private=true&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald7Dev&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronald7Dev&hide=HTML&langs_count=8&layout=compact&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
