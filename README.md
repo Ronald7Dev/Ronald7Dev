@@ -27,7 +27,6 @@
   </a>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Ronald7Dev&count_private=true&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" alt="readme stats" />
