@@ -27,33 +27,6 @@
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode,nodejs,html,css,mysql,git,javascript,figma,lua,c,java,github,pr,ae,blender,unreal,unity,discord,bots,discordjs,wordpress,linux&perline=12" />
-</div>
-
- <hr/>
- 
-<h2 align="center">🤖 AI - Bot</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=aiscript,anaconda&perline=12" />
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
